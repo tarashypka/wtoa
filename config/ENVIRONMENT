@@ -1,5 +1,5 @@
-# conda env install --file=ENVIRONMENT
-# conda env update  --file=ENVIRONMENT
+# conda env create --file=ENVIRONMENT
+# conda env update --file=ENVIRONMENT
 
 name: wtoa
 dependencies:
