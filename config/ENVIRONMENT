@@ -1,7 +1,7 @@
 # conda env install --file=ENVIRONMENT
 # conda env update  --file=ENVIRONMENT
 
-name: wtoa.git
+name: wtoa
 dependencies:
   - pip:
     - pyyaml
