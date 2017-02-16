@@ -1,0 +1,10 @@
+# conda env install --file=ENVIRONMENT
+# conda env update  --file=ENVIRONMENT
+
+name: wtoa.git
+dependencies:
+  - pip:
+    - pyyaml
+    - requests
+    - psycopg2
+    - peewee
